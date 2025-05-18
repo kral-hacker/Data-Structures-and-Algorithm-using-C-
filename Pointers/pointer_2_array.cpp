@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    /*
+    
     //The name of the array indicates the first memory block access
 
     int arr[10] = {2,5,6,5,7,8,9,2,4,0};
@@ -39,7 +39,7 @@ int main(){
     cout<<sizeof(*ptr)<<endl;
     cout<<sizeof(&ptr)<<endl;
 
-     */
+     
 
     int a[20] = {1,2,3,4,5};
 

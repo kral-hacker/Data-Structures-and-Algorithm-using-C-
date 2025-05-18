@@ -238,7 +238,7 @@ using namespace std;
 //     c.display();
 // }
 
-
+// Oveloading the binary + operator for the member function
 class Counter{
     int real;
     int imag;
